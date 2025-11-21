@@ -5,7 +5,7 @@ const app = express();
 const PORT = 8080;
 
 app.get('/', (req, res) => {
-    res.send('This is the new integration to the pipeline for testing 2.0');
+    res.send('This is the new integration to the pipeline for testing 3.0');
     
 });
 
